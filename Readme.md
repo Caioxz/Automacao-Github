@@ -1,0 +1,1 @@
+Um projeto que fiz de automação, que o bot entrasse na minha conta do gitHub
