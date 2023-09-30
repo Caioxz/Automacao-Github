@@ -15,10 +15,10 @@ pyautogui.click(x=1217, y=115)#clicar no "entrar" do github
 time.sleep(1.8)
 pyautogui.click(x=700, y=289)#clicar no email
 time.sleep(1)
-pyautogui.write('caio.pinheiro15@etec.sp.gov.br')
+pyautogui.write('##########')
 pyautogui.press('tab')
 pyautogui.press('tab')
-pyautogui.write('CSP123@241f')
+pyautogui.write('$#######')
 time.sleep(0.90)
 pyautogui.press('tab')
 pyautogui.press('enter')
